@@ -9,3 +9,19 @@ body {
   background: var(--secondary-color);
   color: var(--primary-color);
 }
+
+#palestrantes {
+  background: #fffbe6;
+  padding: 32px 16px;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: 32px auto;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+#palestrantes ul {
+  padding-left: 20px;
+}
+#palestrantes li {
+  margin-bottom: 8px;
+  font-size: 1.1em;
+}
